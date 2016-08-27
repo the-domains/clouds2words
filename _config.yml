@@ -1,0 +1,28 @@
+name: Clouds2Words
+favicon: null
+layout_spectrum: 0.4641521074809134
+typography_spectrum: 0.6268231179565191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6164896315895021
+  lightness: 0.40773647697642446
+  saturation: 0.5433523328974843
+  rhythmicContrast: 0.7166294399648905
+purpose: []
